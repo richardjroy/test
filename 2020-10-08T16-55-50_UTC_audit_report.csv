@@ -1,0 +1,56 @@
+Administrator,admin@ricard0.net
+Report Created,"08 Oct 2020 12:55:50, EDT"
+Start Time,"08 Oct 2020 00:00:00, EDT"
+End Time,"08 Oct 2020 12:53:46, EDT"
+Category,"Web Access Control"
+Sub-Category,"SSL Inspection"
+Time,User,Action,AA in Cloud,Result,Client IP,Interface,Category,Subcategory,Resource,Pre Action,After
+"08 Oct 2020 12:53:35, EDT",admin@ricard0.net,Update,zscalertwo.net,Successful,165.225.38.125,UI,Web Access Control,SSL Inspection,,"Custom Certificate = false 
+Custom Certificate Allowed = false 
+Csr Download Allowed = false 
+Show Notification Page = false 
+Untrusted Ssl Issuer = Block untrusted certificate 
+Block Site With Revoked Server Cert = true 
+Block Undecrytable = true 
+Scan Secure Agent Enabled = true 
+Scan Road Warrior With Kerberos = true 
+Scan Zapp In Windows = true 
+Scan Zapp In Mac = true 
+Scan Zapp In Android = false 
+Scan Zapp In IO S = false 
+Scan Based On SH A = false 
+Un Decrypt Categories = {
+None} 
+Blocked Categories = {
+None} 
+Bypass Urls = [www.azurespeed.com, www.fast.com, *.fast.com, .speedtest.net] 
+Applications = {
+Spotify} 
+Cert Chain Uploaded = false 
+Inspected Categories = {
+Any} 
+","Custom Certificate = false 
+Custom Certificate Allowed = false 
+Csr Download Allowed = false 
+Show Notification Page = false 
+Untrusted Ssl Issuer = Block untrusted certificate 
+Block Site With Revoked Server Cert = true 
+Block Undecrytable = true 
+Scan Secure Agent Enabled = true 
+Scan Road Warrior With Kerberos = true 
+Scan Zapp In Windows = true 
+Scan Zapp In Mac = true 
+Scan Zapp In Android = false 
+Scan Zapp In IO S = false 
+Scan Based On SH A = false 
+Un Decrypt Categories = {
+None} 
+Blocked Categories = {
+None} 
+Bypass Urls = [www.azurespeed.com, www.fast.com, *.fast.com, www.cnn.com, .speedtest.net] 
+Applications = {
+Spotify} 
+Cert Chain Uploaded = false 
+Inspected Categories = {
+Any} 
+",
